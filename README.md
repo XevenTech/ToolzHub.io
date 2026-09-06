@@ -6,7 +6,7 @@ Whether you need to calculate, convert, generate, format, or process information
 
 🌐 **Explore the tools:** [ToolzHub.io](https://toolzhub.io/)
 
-[![Generate Now](https://github.com/XevenTech/projects_snapshots/blob/main/ToolzHub.io/toolzhub.png?raw=true "Click to Use Now")](https://toolzhub.io)
+[![Generate Now](https://github.com/XevenTech/projects_snapshots/blob/main/ToolzHub/toolzhub.png?raw=true "Click to Use Now")](https://toolzhub.io)
 
 ## About ToolzHub
 
